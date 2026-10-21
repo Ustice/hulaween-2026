@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.qa/
+*.tar.gz
+
+tmp/
+
+.openai/
+.DS_Store
+.env
+.env.*

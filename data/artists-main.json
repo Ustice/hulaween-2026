@@ -1,0 +1,441 @@
+{
+  "My Morning Jacket": {
+    "description": "Louisville rock band known for expansive, eclectic songs and adventurous live performances.",
+    "descriptionSource": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM",
+    "spotifyArtistUrl": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM",
+    "songs": [
+      {
+        "title": "Rocket Man",
+        "url": "https://open.spotify.com/track/2UML0OfERtj2dHMDhLIxaY"
+      },
+      {
+        "title": "Circuital",
+        "url": "https://open.spotify.com/track/2SI5qiIZrSM32qtklAwWBA"
+      },
+      {
+        "title": "Get The Point",
+        "url": "https://open.spotify.com/track/1FNOzTikGovOrdDthuQEx8"
+      }
+    ]
+  },
+  "The String Cheese Incident": {
+    "description": "Colorado jam band blending bluegrass, rock, jazz and funk, with a long tradition of improvised live shows.",
+    "descriptionSource": "https://www.allmusic.com/artist/the-string-cheese-incident-mn0000477793",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Pretty Lights": {
+    "description": "Derek Vincent Smith’s electronic project draws on hip-hop and soul.",
+    "descriptionSource": "https://en.wikipedia.org/wiki/Pretty_Lights",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Geese": {
+    "description": "New York band behind Projector, 3D Country and Getting Killed.",
+    "descriptionSource": "https://linktr.ee/geeseband",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "HerShe": {
+    "description": "Electronic and hip-hop performer.",
+    "descriptionSource": "https://www.jambase.com/band/hershe",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Big Gramatik (Big Gigantic B2B Gramatik)": {
+    "description": "A back-to-back collaboration between Big Gigantic and Gramatik.",
+    "descriptionSource": "https://hulaween.com/schedule/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "DRAMA": {
+    "description": "Billed as DRAMA [CLUB] for this Spirit Lake set.",
+    "descriptionSource": "https://hulaween.com/schedule/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "The Warren Haynes Incident": {
+    "description": "A special Incident set billed with Warren Haynes.",
+    "descriptionSource": "https://hulaween.com/schedule/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Saka x FLY": {
+    "description": "A collaborative set from Saka and FLY in the Memory Palace takeover.",
+    "descriptionSource": "https://hulaween.com/schedule/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Of The Trees": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/of-the-trees",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "STS9": {
+    "description": "Electronic dance, Jam music.",
+    "descriptionSource": "https://www.jambase.com/band/sts9",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Caitlin Krisko & The Broadcast": {
+    "description": "Blues music.",
+    "descriptionSource": "https://www.jambase.com/band/caitlin-krisko-the-broadcast",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Curra": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/curra",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Eggy": {
+    "description": "Jam, Rock music.",
+    "descriptionSource": "https://www.jambase.com/band/eggy",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "EOTO": {
+    "description": "Electronic dance, Jam music.",
+    "descriptionSource": "https://www.jambase.com/band/eoto",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Kyle Hollingsworth": {
+    "description": "Jam music.",
+    "descriptionSource": "https://www.jambase.com/band/kyle-hollingsworth",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Scott Metzger": {
+    "description": "Jam music.",
+    "descriptionSource": "https://www.jambase.com/band/scott-metzger",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Frost Children": {
+    "description": "Hyperpop music.",
+    "descriptionSource": "https://lineupfinder.com/festivals/hulaween-2026-liveoakfl/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Guavatron": {
+    "description": "Jam music.",
+    "descriptionSource": "https://www.jambase.com/band/guavatron",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "HHunter": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/hhunter",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Karina Rykman": {
+    "description": "Jam music.",
+    "descriptionSource": "https://www.jambase.com/band/karina-rykman",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "LaMP": {
+    "description": "Jam, Jazz music.",
+    "descriptionSource": "https://www.jambase.com/band/lamp",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Lettuce": {
+    "description": "Jam music.",
+    "descriptionSource": "https://www.jambase.com/band/lettuce",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "LYNY": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/lyny",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Natalie Brooke": {
+    "description": "Jam music.",
+    "descriptionSource": "https://www.jambase.com/band/natalie-brooke",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Opiuo": {
+    "description": "Glitch-hop music.",
+    "descriptionSource": "https://lineupfinder.com/festivals/hulaween-2026-liveoakfl/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Warren Haynes": {
+    "description": "Blues, Jam, Rock music.",
+    "descriptionSource": "https://www.jambase.com/band/warren-haynes",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Ben Böhmer": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/ben-bohmer",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Daily Bread": {
+    "description": "Electro-soul music.",
+    "descriptionSource": "https://lineupfinder.com/festivals/hulaween-2026-liveoakfl/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Green Velvet": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/green-velvet",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Levity": {
+    "description": "Dubstep music.",
+    "descriptionSource": "https://lineupfinder.com/festivals/hulaween-2026-liveoakfl/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "GUDFELLA": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/gudfella",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Jackie Hollander": {
+    "description": "Melodic house music.",
+    "descriptionSource": "https://lineupfinder.com/festivals/hulaween-2026-liveoakfl/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Jerro": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/jerro",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Jon Stickley Trio": {
+    "description": "Bluegrass, Indie music.",
+    "descriptionSource": "https://www.jambase.com/band/jon-stickley-trio",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Kasablanca": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/kasablanca",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Mountain Grass Unit": {
+    "description": "Bluegrass music.",
+    "descriptionSource": "https://www.jambase.com/band/the-mountain-grass-unit",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Sneezy": {
+    "description": "Jam music.",
+    "descriptionSource": "https://www.jambase.com/band/sneezy",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Tini Gessler": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/tini-gessler",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Unknown Mortal Orchestra": {
+    "description": "Indie, R&B / Soul, Rock music.",
+    "descriptionSource": "https://www.jambase.com/band/unknown-mortal-orchestra",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "A Hundred Drums": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/a-hundred-drums",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Daniel Allan": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/daniel-allan",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "The Greyboy Allstars": {
+    "description": "Acid jazz music.",
+    "descriptionSource": "https://lineupfinder.com/festivals/hulaween-2026-liveoakfl/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Guerilla Toss": {
+    "description": "Dance-punk music.",
+    "descriptionSource": "https://lineupfinder.com/festivals/hulaween-2026-liveoakfl/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Lewis OfMan": {
+    "description": "Electronic dance, Indie, Pop, R&B / Soul music.",
+    "descriptionSource": "https://www.jambase.com/band/lewis-ofman",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Maddy O’Neal": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/maddy-oneal",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "salute": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/salute",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Taper’s Choice": {
+    "description": "Jam music.",
+    "descriptionSource": "https://www.jambase.com/band/tapers-choice",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "True Loves": {
+    "description": "R&B / Soul music.",
+    "descriptionSource": "https://www.jambase.com/band/true-loves",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Big Gigantic": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/big-gigantic",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Gramatik": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/gramatik",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Excision": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/excision",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Crankdat": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/crankdat",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "AHEE": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/ahee",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Baalti": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/baalti",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Casey Club": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/casey-club",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Magoo": {
+    "description": "Bluegrass and jam music.",
+    "descriptionSource": "https://www.jambase.com/band/magoo",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Midnight Generation": {
+    "description": "Latin and indie music.",
+    "descriptionSource": "https://www.jambase.com/band/midnight-generation",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Riordan": {
+    "description": "Electronic dance music.",
+    "descriptionSource": "https://www.jambase.com/band/riordan",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Supertaste": {
+    "description": "R&B and soul music.",
+    "descriptionSource": "https://www.jambase.com/band/supertaste",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "¥ØU$UK€ ¥UK1MAT$U": {
+    "description": "Electronic DJ from Osaka, Japan.",
+    "descriptionSource": "https://www.jambase.com/band/yousuke-yukimatsu",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "DOPE LEMON": {
+    "description": "Indie rock music.",
+    "descriptionSource": "https://lineupfinder.com/festivals/hulaween-2026-liveoakfl/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "INVT": {
+    "description": "Bassline music.",
+    "descriptionSource": "https://lineupfinder.com/festivals/hulaween-2026-liveoakfl/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "KETTAMA": {
+    "description": "Irish producer and DJ combining house and garage with techno and euphoric rave influences.",
+    "descriptionSource": "https://www.allmusic.com/artist/kettama-mn0003904889",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Manic Focus": {
+    "description": "John McCarten’s electronic project blends funk, soul and hip-hop with bass music.",
+    "descriptionSource": "https://www.insomniac.com/music/artists/manic-focus/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Hamdi": {
+    "description": "UK producer and DJ blending dubstep, UK garage and grime.",
+    "descriptionSource": "https://www.insomniac.com/music/artists/hamdi/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "HEYZ": {
+    "description": "Electronic producer whose bass sound developed from techno roots.",
+    "descriptionSource": "https://www.insomniac.com/music/artists/heyz/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Steller": {
+    "description": "South Florida producer and DJ mixing wonky bass, soulful grooves and funk.",
+    "descriptionSource": "https://www.insomniac.com/music/artists/steller/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "AK Sports": {
+    "description": "Australian-born DJ in the hard techno and rave scene.",
+    "descriptionSource": "https://ra.co/dj/sports",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "EOTO & Friends": {
+    "description": "Electronic improvisation and jam music; this set adds guest performers.",
+    "descriptionSource": "https://www.jambase.com/band/eoto",
+    "spotifyArtistUrl": "",
+    "songs": []
+  },
+  "Anthill Cinema w/ Jon Ditty": {
+    "description": "A collaborative set featuring Anthill Cinema and Jon Ditty.",
+    "descriptionSource": "https://hulaween.com/schedule/",
+    "spotifyArtistUrl": "",
+    "songs": []
+  }
+}
