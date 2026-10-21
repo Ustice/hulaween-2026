@@ -174,7 +174,7 @@ def untimed(c,entries,n,total,nonmusic=False):
     txt(c,x+15,y-110-j*19,line,15,'Body')
   if s.get('sourceUrl'):c.linkURL(s['sourceUrl'],(x,y-(218 if nonmusic else 105),x+cw,y+13),relative=0)
  if not nonmusic:txt(c,110,92,'DESCRIPTIONS & SONG LINKS: DOWNLOAD DETAILS.PDF FROM THE LIVE GUIDE.',18)
- c.linkURL('https://hulaween-2026-field-guide.epicsong129.chatgpt.site/details.pdf',(110,80,W-100,115),relative=0)
+ c.linkURL('https://ustice.github.io/hulaween-2026/details.pdf',(110,80,W-100,115),relative=0)
  c.showPage()
 
 def build(rows,path,nonmusic=False):
